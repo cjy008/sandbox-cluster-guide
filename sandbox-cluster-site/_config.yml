@@ -18,4 +18,5 @@ twitter_username: SDSC_UCSD
 github_username:  SDSC
 
 # Build settings
+name: Let's Build A Cluster!
 markdown: kramdown
