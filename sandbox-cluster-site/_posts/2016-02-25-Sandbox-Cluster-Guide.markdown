@@ -107,14 +107,7 @@ Once the tool has been downloaded, unzip the folder and the tool will be ready t
       * Note: On the first connect, you might have to enter `yes` when prompted to adding the key from this node into memory.
 
 
-### Notes:
 
-To access the terminal, you can either:
-* Click the Desktop icon on the top menu bar
-* Go through Menu->Accessories->Terminal
-
-To check which files are in the current directory: 
-* ls
 
 
 [https://www.raspberrypi.org/documentation/installation/installing-images/README.md]:https://www.raspberrypi.org/documentation/installation/installing-images/README.md
